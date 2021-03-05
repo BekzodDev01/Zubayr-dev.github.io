@@ -1,0 +1,26 @@
+body{
+    background-image:linear-gradient(to right bottom, #34e89e, #0f3443) ;
+    color: #f7f7f7;
+}
+a{
+    color: lightblue;
+    padding-right: 20px;
+    list-style: none;
+    text-decoration: none;
+}
+h1{
+    font-size: 36px;
+}
+a:hover{
+    color: red;
+    transform: scale(1.2);
+}
+.img-1{
+    display: inline-block;
+    
+    text-align: center;
+}
+.img-2{
+    display: inline-block;
+    text-align: center;
+}
